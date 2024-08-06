@@ -3,28 +3,32 @@
   "WorkspaceRootPath": "D:\\GitHub\\CarRental\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|d:\\github\\carrental\\iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:iperson.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|d:\\github\\carrental\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:Client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|d:\\github\\carrental\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\icarrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:icarrentalservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|d:\\github\\carrental\\carrentalsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:carrentalsalon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:Car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\Truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:Truck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|D:\\GitHub\\CarRental\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|d:\\github\\carrental\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B0AC4F1-3F84-41A4-A398-DC2B365F38E9}|CarRental.csproj|solutionrelative:auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,8 +38,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 77,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:52:20.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CarRentalSalon.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\CarRentalSalon.cs",
+              "RelativeDocumentMoniker": "CarRentalSalon.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\CarRentalSalon.cs",
+              "RelativeToolTip": "CarRentalSalon.cs",
+              "ViewState": "AQIAAEcAAAAAAAAAAAAowF4AAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:45:53.752Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
@@ -46,82 +76,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "IPerson.cs",
-              "DocumentMoniker": "D:\\GitHub\\CarRental\\IPerson.cs",
-              "RelativeDocumentMoniker": "IPerson.cs",
-              "ToolTip": "D:\\GitHub\\CarRental\\IPerson.cs",
-              "RelativeToolTip": "IPerson.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:50:17.515Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Truck.cs",
-              "DocumentMoniker": "D:\\GitHub\\CarRental\\Truck.cs",
-              "RelativeDocumentMoniker": "Truck.cs",
-              "ToolTip": "D:\\GitHub\\CarRental\\Truck.cs",
-              "RelativeToolTip": "Truck.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T09:11:02.372Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Client.cs",
-              "DocumentMoniker": "D:\\GitHub\\CarRental\\Client.cs",
-              "RelativeDocumentMoniker": "Client.cs",
-              "ToolTip": "D:\\GitHub\\CarRental\\Client.cs",
-              "RelativeToolTip": "Client.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAXAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T09:09:53.976Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Car.cs",
-              "DocumentMoniker": "D:\\GitHub\\CarRental\\Car.cs",
-              "RelativeDocumentMoniker": "Car.cs",
-              "ToolTip": "D:\\GitHub\\CarRental\\Car.cs",
-              "RelativeToolTip": "Car.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABIAAABSAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T09:10:46.493Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 77,
-          "SelectedChildIndex": 1,
-          "Children": [
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ICarRentalService.cs",
-              "DocumentMoniker": "D:\\GitHub\\CarRental\\ICarRentalService.cs",
-              "RelativeDocumentMoniker": "ICarRentalService.cs",
-              "ToolTip": "D:\\GitHub\\CarRental\\ICarRentalService.cs",
-              "RelativeToolTip": "ICarRentalService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T10:09:07.513Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Person.cs",
               "DocumentMoniker": "D:\\GitHub\\CarRental\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "D:\\GitHub\\CarRental\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-06T09:43:12.862Z",
+              "WhenOpened": "2024-08-06T13:37:43.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\Client.cs",
+              "RelativeDocumentMoniker": "Client.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\Client.cs",
+              "RelativeToolTip": "Client.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:09:53.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Auto.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\Auto.cs",
+              "RelativeDocumentMoniker": "Auto.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\Auto.cs",
+              "RelativeToolTip": "Auto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-06T13:39:17.278Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Truck.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\Truck.cs",
+              "RelativeDocumentMoniker": "Truck.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\Truck.cs",
+              "RelativeToolTip": "Truck.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:11:02.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Car.cs",
+              "DocumentMoniker": "D:\\GitHub\\CarRental\\Car.cs",
+              "RelativeDocumentMoniker": "Car.cs",
+              "ToolTip": "D:\\GitHub\\CarRental\\Car.cs",
+              "RelativeToolTip": "Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAABvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-05T09:10:46.493Z",
               "EditorCaption": ""
             }
           ]

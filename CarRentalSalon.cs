@@ -83,7 +83,7 @@ namespace CarRental
             Console.WriteLine("Перелiк автомобiлiв компанiї:");
             foreach (var item in GetAllCars())
             {
-                Console.WriteLine(item.GetDescription());
+                Console.WriteLine($"Марка: {item.BrandAuto} | Модель:{item.ModelAuto} | Номер: {item.NumberAuto} | Доступно: {item.IsAvailable}.");
             }
         }
         //Віддаємо авто в ремонт

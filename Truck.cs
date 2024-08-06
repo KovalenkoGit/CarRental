@@ -16,12 +16,11 @@ namespace CarRental
             if (Trailer) 
             {
                 // Використовую базовий клас Auto та додаю до нього новий текст. Можна повністю переоприділити метот і вивести зовсім інший текст
-                //наприклад return $"{BrandAuto} грузовий автомобіль з причепом. Номерний знак {NumberAuto}";
-                return base.GetDescription() + $" (Увага, автомобiль з причепом)";
+                return $"Марка: {BrandAuto} | Модель:{ModelAuto} | Номер: {NumberAuto}. (Увага, автомобiль з причепом)";
             }
             else
             {
-                return base.GetDescription();
+                return $"Марка: {BrandAuto} | Модель:{ModelAuto} | Номер: {NumberAuto}.";
             }
         }
     }

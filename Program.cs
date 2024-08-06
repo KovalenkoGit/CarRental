@@ -66,23 +66,32 @@ namespace CarRental
                 carRentalSalon.AddAuto(car);
             }
             carRentalSalon.AddAuto(truck);
+            Console.WriteLine("------------Всі авто компанії------------");
+            carRentalSalon.PrintListAuto();
             //Беремо автомобілі в оренду
+            Console.WriteLine("------------Видаємо авто клієнтам------------");
             carRentalSalon.GiveTheCar(cars[0].NumberAuto, users[0].UserId);
             carRentalSalon.GiveTheCar(cars[1].NumberAuto, users[1].UserId);
             carRentalSalon.GiveTheCar(truck.NumberAuto, users[1].UserId);
             //Повертаємо авто з перевіркою чи брав користувач саме таке авто
+            Console.WriteLine("------------Приймаємо авто від клієнтів------------");
             carRentalSalon.ReturnCar(cars[0].NumberAuto, users[0].UserId);
             //Пробуємо повторно взяти автомобіль який уже орендовано
+            Console.WriteLine("------------Спроба взяти авто якого нема в наявності------------");
             carRentalSalon.GiveTheCar(cars[1].NumberAuto, users[0].UserId);
-            //відправляємо авто на ремонт
+            //Відправляємо авто на ремонт
+            Console.WriteLine("------------Відправляємо авто на ремонт------------");
             carRentalSalon.GiveCarForRepair(cars[0].NumberAuto);
             carRentalSalon.GiveCarForRepair(cars[1].NumberAuto);
             //Пробуємо орендувати авто яке в ремонті
+            Console.WriteLine("------------Спроба взяти авто яке знаходиться на ремонті------------");
             carRentalSalon.GiveTheCar(cars[0].NumberAuto, users[0].UserId);
             //Забираємо авто з ремонту
+            Console.WriteLine("------------Забираємо авто з ремонту------------");
             carRentalSalon.ReturnCarForRepair(cars[0].NumberAuto);
             carRentalSalon.ReturnCarForRepair(cars[1].NumberAuto);
             //Виводимо список всих автомобілів компанії з приміткою який доступний а який в оренді
+            Console.WriteLine("------------Виводимо список всих автомобілів компанії з урахуванням доступності------------");
             carRentalSalon.PrintListAuto();
         }
     }

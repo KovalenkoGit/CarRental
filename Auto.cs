@@ -7,14 +7,26 @@ using System.Threading.Tasks;
 
 namespace CarRental
 {
-    //Клас наслідує абстрактний клас AutoItem
-    public class Auto : AutoItem
+    //Використано загальний абстрактний клас. Його наслідують клас для різних автомобілів: легкові, вантажні, спецтехніка, автобудинки, пікапи.........
+    public abstract class Auto
     {
-        //Використано абстрактний метод. Для виводу інформації про автомобіль - опис (наслідувано від абстрактного класу AutoItem)
-        public override string GetDescription()
+        public string BrandAuto { get; set; }
+        public string ModelAuto { get; set; }
+        public string NumberAuto { get; set; }
+        private bool isAvailable = true;
+        public bool IsAvailable
         {
-            return $"Марка: {BrandAuto} | Модель:{ModelAuto} | Номер: {NumberAuto} | Доступно: {IsAvailable}";
+            get => isAvailable;
+            set => isAvailable = value;
         }
+        private bool isUnderRepair = false;
+        public bool IsUnderRepair
+        {
+            get => isUnderRepair;
+            set => isUnderRepair = value;
+        }
+        //Абстрактний метод для опису авто
+        public abstract string GetDescription();
 
     }
 }
