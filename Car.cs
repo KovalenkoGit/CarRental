@@ -21,7 +21,7 @@ namespace CarRental
             }
             else 
             {
-                return $"Марка: {BrandAuto} | Модель:{ModelAuto} | Номер: {NumberAuto}. (Увага, автомобiль з причепом)";
+                return $"Марка: {BrandAuto} | Модель:{ModelAuto} | Номер: {NumberAuto}.";
             }
 
         }
